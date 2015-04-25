@@ -1,0 +1,95 @@
+﻿
+#header {
+    width: 1000px;
+    height: 66px;
+    margin: 0 auto;
+    
+}
+#logo {
+    height: 60px;
+    
+    position: absolute;
+   
+    width: 180px;
+}
+
+#menu {
+    height: 40px;
+    margin-left: 178px;
+    margin-top: 0px;
+    position: absolute;
+    width: 820px;
+    z-index: 1;
+}
+
+#menuBg {
+    width: 100%;
+}
+
+
+.u10 {
+    color: #ffffff;
+    height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+   
+    
+    font-family: "Arial Normal","Arial";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.u10_img {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 3.4px;
+    width: 137px;
+}
+
+.u11 {
+    position: absolute;
+    top: 0px;
+   
+    word-wrap: break-word;
+}
+
+.level1 {
+    float: left;
+    margin-left:35px;
+    width: 63px;
+    color: #ffffff;
+}
+
+.ulLevel2 
+{
+    display: none;
+   
+    list-style: outside none none;
+    text-align: center;
+    width: 66px;
+     padding-left: 0;
+}
+
+.level2 {
+    background-image: url("../img/u26.png");
+    height: 23px;
+    padding-top: 10px;
+    width: 106px;
+     float: left;
+}
+ul li ul li {
+    float: left;
+    
+}
+ul li ul {
+    position: absolute;
+    padding: 0;
+    display: none;
+}
+ul li:hover ul {
+    display: block;
+}

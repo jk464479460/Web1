@@ -1,0 +1,4 @@
+D:\Web1\Web1\bin\Web1.dll
+D:\Web1\Web1\bin\Web1.pdb
+D:\Web1\Web1\obj\Debug\Web1.dll
+D:\Web1\Web1\obj\Debug\Web1.pdb
